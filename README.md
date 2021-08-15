@@ -1,5 +1,5 @@
 # Microwave-Project
-This is a simple Microwave project.
+This is a simple Microwave project for [Swift Act](https://www.linkedin.com/company/swift-act/) internship.
 # Requirements
 * For real components:
   * PIC18f4620 Micro-controller.
